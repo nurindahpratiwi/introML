@@ -19,9 +19,9 @@ Type_of_vehicle: The type of vehicle delivery partner rides\
 Time_taken(min): The time taken by the delivery partner to complete the order\
 
 # Methods
-Optimizer: Adam Optimizer
-Error: Mean Squared Error
-Training size: 0.90
+Optimizer: Adam Optimizer\
+Error: Mean Squared Error\
+Training size: 0.90\
 
 # Experiment
 ![Screenshot 2023-07-09 231311](https://github.com/nurindahpratiwi/introML/assets/22311240/3f9828ac-79a8-404e-9395-140971deebc5)
