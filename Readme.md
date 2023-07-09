@@ -24,9 +24,11 @@ Error: Mean Squared Error
 Training size: 0.90
 
 # Experiment
-![Screenshot 2023-07-09 223603](https://github.com/nurindahpratiwi/introML/assets/22311240/451902b5-b813-4e92-bf5e-95260499900b)
+![Screenshot 2023-07-09 231311](https://github.com/nurindahpratiwi/introML/assets/22311240/3f9828ac-79a8-404e-9395-140971deebc5)
 
-![Screenshot 2023-07-09 223617](https://github.com/nurindahpratiwi/introML/assets/22311240/5d5ac3f7-2762-47be-ac49-2fbe8d68caa1)
+
+![Screenshot 2023-07-09 231258](https://github.com/nurindahpratiwi/introML/assets/22311240/8d1f4593-a5ed-4322-bd1a-0f37dc5be443)
+
 
 
 # Conclusion
